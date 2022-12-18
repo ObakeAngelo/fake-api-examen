@@ -1,0 +1,23 @@
+{
+  "name": "fake-api-examen",
+  "version": "1.0.0",
+  "description": "[https://my-json-server.typicode.com/typicode/demo](https://my-json-server.typicode.com/typicode/demo)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ObakeAngelo/fake-api-examen.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ObakeAngelo/fake-api-examen/issues"
+  },
+  "homepage": "https://github.com/ObakeAngelo/fake-api-examen#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
